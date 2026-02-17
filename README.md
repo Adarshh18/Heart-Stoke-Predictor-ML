@@ -1,1 +1,1 @@
-# Heart-Stoke-Predictor-ML
+# Heart-Stroke-Predictor-ML
